@@ -1,6 +1,11 @@
 # Notebooklm-poo
 Caderno temático sobre Programação Orientada a Objetos desenvolvido com o NotebookLM para um desafio da DIO.
 
+## 🔗 Acesso ao Caderno no NotebookLM
+
+O caderno temático completo sobre Programação Orientada a Objetos pode ser acessado no link abaixo:
+https://notebooklm.google.com/notebook/e10492c4-70dc-49c6-9960-77fabaed2a2e
+
 # Caderno Temático: Programação Orientada a Objetos com NotebookLM
 
 ## Sobre o projeto
